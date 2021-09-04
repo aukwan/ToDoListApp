@@ -10,6 +10,10 @@ import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.util.ArrayList;
 
+/*
+ Class to store tasks in between app usages
+ */
+
 public class FileHelper {
 
     public static final String FILENAME = "listinfo.dat";
